@@ -5,7 +5,11 @@
 
 - Ainda tenho muuuuuito a aprender, então quaisquer contribuições e sugestões são muito bem-vindas :nerd_face:
 
-  
+Meu primeiro tutorial está aqui:
+https://github.com/dumasbruno/Desapegando-do-Excel/wiki/Desapegando-do-Excel_Dados-do-INMET
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
