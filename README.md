@@ -1,5 +1,5 @@
 - Olá! Meu nome é Bruno Dumas, sou Meteorologista e quaaaase Mestre em Meteorologia pela UFRJ :cyclone:
-- Tenho mais de 10 anos de experiência com Meteorologia Operacional e pesquisa em Energia Eólica, Micrometeorologia, Modelagem Atmosférica e Qualidade do Ar  (sim meus amigos, Meteorologia não é só saber se vai chover no fim de semana :speak_no_evil:)
+- Tenho mais de 10 anos de experiência com Meteorologia Operacional e pesquisa em Energia Eólica, Micrometeorologia, Modelagem Atmosférica e Qualidade do Ar  (**sim meus amigos, Meteorologia não é só saber se vai chover no fim de semana** :speak_no_evil:)
 
 - A ideia destes repositórios é falar bastante de Meteorologia e apresentar aplicações a partir de técnicas de Ciência de Dados e Aprendizado de Máquina, além de compartilhar alguns códigos que estão me ajudando a desapegar do Excel tanto nos meus plantões no Alerta Rio :cloud_with_lightning_and_rain: quanto nas minhas pesquisas do Mestrado em Energia Eólica e WRF :wind_face:
 
